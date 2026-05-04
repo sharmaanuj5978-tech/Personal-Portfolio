@@ -1967,3 +1967,15 @@ textarea.form-input::-webkit-resizer { display: none; }
   box-shadow: 0 0 30px rgba(0, 150, 255, 0.4);
   border: 1px solid rgba(0, 150, 255, 0.4);
 }
+
+.resume-btn {
+  display: block;
+  text-align: center;
+  background: #facc15;
+  color: black;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+}
